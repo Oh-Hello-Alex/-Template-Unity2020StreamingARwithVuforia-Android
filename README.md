@@ -3,7 +3,7 @@
 This is a blank Unity template for you to build an AR App with Vuforia.  Once built, when an image is triggered, it will play a streaming video that is hosted externally. The video will pauses when the trigger image is no longer tracked.<br />
 **[Includes a tutorial on How to Build and Update an HLS Streaming AR App in Unity with Vuforia from scratch.](https://github.com/Oh-Hello-Alex/-Template-Unity2020StreamingARwithVuforia-Android/blob/master/How%20to%20Build%20and%20Update%20an%20HLS%20Streaming%20AR%20App%20in%20Unity%20%26%20Vuforia.pdf)**<br /><br />
 If you're looking for the iOS template, please click [here](https://github.com/Oh-Hello-Alex/Template-Unity2020StreamingARwithVuforia-iOS).<br /><br />
-Start by opening up: Assets > Scene > Main
+**Start by opening up: Assets > Scene > Main**<br /> <br />
 
 
 ## Versions
