@@ -1,7 +1,8 @@
 # Template for an AR HLS streaming app built in Unity 2020 with Vuforia - Android
 
-This is a blank Unity template for you to build an AR App with Vuforia.  Once built, when an image is triggered, it will play a streaming video that is hosted externally. The video will pauses when the trigger image is no longer tracked.<br /><br />
-**Includes a tutorial on How to Build and Update an HLS Streaming AR App in Unity with Vuforia from scratch.**
+This is a blank Unity template for you to build an AR App with Vuforia.  Once built, when an image is triggered, it will play a streaming video that is hosted externally. The video will pauses when the trigger image is no longer tracked.<br />
+**Includes a tutorial on How to Build and Update an HLS Streaming AR App in Unity with Vuforia from scratch.**<br />
+If you're looking for an iOS template, please click [here](https://github.com/Oh-Hello-Alex/Template-Unity2020StreamingARwithVuforia-iOS).<br />
 
 
 ## Versions
