@@ -14,7 +14,7 @@ DOTween Pro  1.0.178 <br />
 
 ## Setup
 
-For complete instructions on how to set up this app and prepare you materials, **please see the accompanying PDF Walkthrough.** <br />
+For complete instructions on how to set up this app and prepare you materials, **please see the accompanying PDF Walkthrough:How to Build and Update an HLS Streaming AR App in Unity with Vuforia.pdf** <br />
 It includes: 
 *    Preparing your media for streaming / how-where to convert videos to .m3u8 files for HLS
 *    Vuforia
