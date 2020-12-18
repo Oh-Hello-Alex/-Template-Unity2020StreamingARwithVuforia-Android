@@ -28,7 +28,7 @@ It includes:
 ## Made By
 
 Alex Serpentini <br />
-[oh.hello.alex.com](httpw://oh.hello.alex.com) <br /><br />
+[oh.hello.alex.com](http://oh.hello.alex.com) <br /><br />
 
 
 Hope this helps, and good luck!!! 
